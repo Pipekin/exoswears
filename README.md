@@ -7,4 +7,4 @@ Exoswears is licensed under the GPL, so yeah, technically you can use it anywher
 ## What's included?
 In Exoswears, you can find words ranging from variants of the F Word, to variants of the S Word, and to mentions of gods (to prevent arguments). This list also contains certain keywords to prevent political debates, harassment, discussion of tragic events and other. The list is in a .TXT format to allow you to modify it to your desires before using it.
 ## What's not included?
-Exoswears does not include Social Media Platforms (ex. Twitter, Discord or Facebook) and/or names of controversial figures.
+Exoswears does not include Social Media Platforms (ex. Twitter, Discord or Facebook) and/or names of controversial figures (of the 21st Century and beyond).
