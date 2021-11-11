@@ -1,5 +1,5 @@
 Pipekin Public License
-- Version 2, 11/11/2021 Revision -
+Version 2, 11/11/2021 Revision 
 
 This license, and all text in it, is Copyright (C) 2021 Pipekin, and its team.
 Everyone is permitted to distribute a copy of this software/file's source code or binaries under the following conditions:
