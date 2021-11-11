@@ -1,5 +1,5 @@
 # exoswears
-A list of 2596 swear words (and bypasses) for uses in anything that needs a list of 2596 swear words.
+A list of 2596+ swear words (and bypasses) for uses in anything that needs a list of 2596+ swear words.
 ## Why make such a thing?
 Exoswears' existence is just for the sole purpose that we had this laying around from earlier projects and needed it somewhere.
 ## Can I use it?
